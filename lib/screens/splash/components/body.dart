@@ -17,11 +17,11 @@ class _BodyState extends State<Body> {
   List<Map<String, String>> splashData = [
     {
       "text": "Welcome to RC Drone Kit Shop, Let’s shop!",
-      "image": "assets/images/splash1.png"
+      "image": "assets/images/drone1.png"
     },
     {
       "text":
-          "We help people to connect with store \nAround Bangladesh",
+          "We help Students with Drone supplies \nAround Bangladesh",
       "image": "assets/images/splash2.png"
     },
     {
