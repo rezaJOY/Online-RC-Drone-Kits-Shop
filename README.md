@@ -1,5 +1,5 @@
 # Online-RC-Drone-Kits-Shop
-Programming for mobile devices lab Project
+An app where user can buy Drone Kits 
 
 # Md Ziaur Reza Joy
 
